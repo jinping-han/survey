@@ -16,3 +16,13 @@
 * Mastering memory tasks with world models [[Paper]](https://arxiv.org/pdf/2403.04253) 
 ![](https://img.shields.io/badge/ICLR-2024-0077c2)
 * Model-based offline reinforcement learning with lower expectile q-learning [[Paper]](https://arxiv.org/pdf/2407.00699) ![](https://img.shields.io/badge/ICLR-2025-0077c2)
+* Revisiting multi-agent world modeling from a diffusion-inspired perspective [[Paper]](https://arxiv.org/pdf/2505.20922) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
+* Policy-conditioned environment models are more generalizable [[Paper]](https://openreview.net/pdf?id=g9mYBdooPA) ![](https://img.shields.io/badge/ICML-2024-0077c2)
+* Making offline RL online: Collaborative world models for offline visual reinforcement learning [[Paper]](https://arxiv.org/pdf/2305.15260) ![](https://img.shields.io/badge/NeurIPS-2024-0077c2)
+* Reward-free world models for online imitation learning [[Paper]](https://arxiv.org/pdf/2410.14081) ![](https://img.shields.io/badge/ICML-2025-0077c2)
+* Reward-free curricula for training robust world models [[Paper]](https://arxiv.org/pdf/2306.09205) ![](https://img.shields.io/badge/ICLR-2024-0077c2)
+* Improving token-based world models with parallel observation prediction [[Paper]](https://arxiv.org/pdf/2402.05643) ![](https://img.shields.io/badge/ICML-2024-0077c2)
+* Dreaming of many worlds: Learning contextual world models aids zero-shot generalization [[Paper]](https://arxiv.org/pdf/2403.10967) ![](https://img.shields.io/badge/EWRL-2024-0077c2)
+* Adaptive world models: Learning behaviors by latent imagination under non-stationarity [[Paper]](https://arxiv.org/pdf/2411.01342) ![](https://img.shields.io/badge/NeurIPS-2024-0077c2)
+* PWM: Policy learning with multi-task world models [[Paper]](https://arxiv.org/pdf/2407.02466) ![](https://img.shields.io/badge/ICLR-2025-0077c2)
+### Observation-Level Generative World Models
