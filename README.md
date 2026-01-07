@@ -39,7 +39,7 @@
 * Gpt-4 technical report. [[Paper]](https://arxiv.org/pdf/2303.08774) ![](https://img.shields.io/badge/arXiv-2023.03-B31B1B)
 * The llama 3 herd of models [[Paper]](https://arxiv.org/pdf/2407.21783) ![](https://img.shields.io/badge/arXiv-2024.07-B31B1B)
 * Language agents meet causality – bridging LLMs and causal world models [[Paper]](https://arxiv.org/pdf/2410.19923) ![](https://img.shields.io/badge/ICLR-2025-0077c2)
-* Surge: On the potential of large language mode [[Paper]](https://arxiv.org/pdf/2502.11167)ls as general-purpose surrogate code executors ![](https://img.shields.io/badge/EMNLP-2025-0077c2)
+* Surge: On the potential of large language models as general-purpose surrogate code executors [[Paper]](https://arxiv.org/pdf/2502.11167) ![](https://img.shields.io/badge/EMNLP-2025-0077c2)
 #### 2.2.2 Visual Observations 
 * Emu3: Next-token prediction is all you need [[Paper]](https://arxiv.org/pdf/2409.18869) ![](https://img.shields.io/badge/arXiv-2024.09-B31B1B)
 * Video world models with long-term spatial memory [[Paper]](https://arxiv.org/pdf/2506.05284) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
