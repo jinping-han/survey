@@ -1,3 +1,18 @@
 ## Part 2: Foundational Word Models
 
 * Mastering diverse control tasks through world models [[Paper]](https://www.nature.com/articles/s41586-025-08744-2.pdf)   ![](https://img.shields.io/badge/Nature-2025-0077c2)
+*  Dream to control: Learning behaviors by latent imagination [[Paper]](https://arxiv.org/pdf/1912.01603) ![](https://img.shields.io/badge/ICLR-2020-0077c2)
+### Reinforcement Learning-Based World Models
+* Dreamsmooth: Improving model-based reinforcement learning via reward smoothing [[Paper]](https://arxiv.org/pdf/2311.01450) ![](https://img.shields.io/badge/ICLR-2024-0077c2)
+* Learning latent dynamics for planning from pixels [[Paper]](https://arxiv.org/pdf/1811.04551) ![](https://img.shields.io/badge/ICML-2019-0077c2)
+* Mastering atari with discrete world models [[Paper]](https://arxiv.org/pdf/2010.02193) ![](https://img.shields.io/badge/ICLR-2021-0077c2)
+* PIGDreamer:Privileged information guided world models for safe partially [[Paper]](https://arxiv.org/pdf/2508.02159) ![](https://img.shields.io/badge/ICML-2025-0077c2)
+* HarmonyDream: Task Harmonization Inside World Models [[Paper]](https://arxiv.org/pdf/2310.00344) ![](https://img.shields.io/badge/ICML-2024-0077c2)
+* Dymodreamer: World modeling with dynamic modulation [[Paper]](https://arxiv.org/pdf/2509.24804) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
+* TD-MPC2: Scalable, robust world models for continuous control [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2024/file/cf73d57b6dcda32b293df7c2d5341f49-Paper-Conference.pdf)![](https://img.shields.io/badge/ICLR-2024-0077c2)
+* Hieros: Hierarchical imagination on structured state space sequence world models [[Paper]](https://arxiv.org/pdf/2310.05167) ![](https://img.shields.io/badge/ICML-2024-0077c2)
+* Learning hierarchical world models with adaptive temporal abstractions from discrete latent dynamics [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2024/file/13b45b44e26c353c64cba9529bf4724f-Paper-Conference.pdf) ![](https://img.shields.io/badge/ICLR-2024-0077c2)
+* Neural motion simulator pushing the limit of world models in reinforcement learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Hao_Neural_Motion_Simulator_Pushing_the_Limit_of_World_Models_in_CVPR_2025_paper.pdf) ![](https://img.shields.io/badge/CVPR-2025-0077c2)
+* Mastering memory tasks with world models [[Paper]](https://arxiv.org/pdf/2403.04253) 
+![](https://img.shields.io/badge/ICLR-2024-0077c2)
+* Model-based offline reinforcement learning with lower expectile q-learning [[Paper]](https://arxiv.org/pdf/2407.00699) ![](https://img.shields.io/badge/ICLR-2025-0077c2)
