@@ -23,6 +23,6 @@
 * Reward-free curricula for training robust world models [[Paper]](https://arxiv.org/pdf/2306.09205) ![](https://img.shields.io/badge/ICLR-2024-0077c2)
 * Improving token-based world models with parallel observation prediction [[Paper]](https://arxiv.org/pdf/2402.05643) ![](https://img.shields.io/badge/ICML-2024-0077c2)
 * Dreaming of many worlds: Learning contextual world models aids zero-shot generalization [[Paper]](https://arxiv.org/pdf/2403.10967) ![](https://img.shields.io/badge/EWRL-2024-0077c2)
-* Adaptive world models: Learning behaviors by latent imagination under non-stationarity [[Paper]](https://arxiv.org/pdf/2411.01342) ![](https://img.shields.io/badge/NeurIPS-2024-0077c2)
+* Adaptive world models: Learning behaviors by latent imagination under non-stationarity [[Paper]](https://arxiv.org/pdf/2411.01342) ![](https://img.shields.io/badge/EWRL-2024-0077c2)
 * PWM: Policy learning with multi-task world models [[Paper]](https://arxiv.org/pdf/2407.02466) ![](https://img.shields.io/badge/ICLR-2025-0077c2)
 ### Observation-Level Generative World Models
