@@ -1,8 +1,9 @@
+
 ## Part 2: Foundational Word Models
 
 * Mastering diverse control tasks through world models [[Paper]](https://www.nature.com/articles/s41586-025-08744-2.pdf)   ![](https://img.shields.io/badge/Nature-2025-0077c2)
 *  Dream to control: Learning behaviors by latent imagination [[Paper]](https://arxiv.org/pdf/1912.01603) ![](https://img.shields.io/badge/ICLR-2020-0077c2)
-### Reinforcement Learning-Based World Models
+### 2.1 Reinforcement Learning-Based World Models
 * Dreamsmooth: Improving model-based reinforcement learning via reward smoothing [[Paper]](https://arxiv.org/pdf/2311.01450) ![](https://img.shields.io/badge/ICLR-2024-0077c2)
 * Learning latent dynamics for planning from pixels [[Paper]](https://arxiv.org/pdf/1811.04551) ![](https://img.shields.io/badge/ICML-2019-0077c2)
 * Mastering atari with discrete world models [[Paper]](https://arxiv.org/pdf/2010.02193) ![](https://img.shields.io/badge/ICLR-2021-0077c2)
@@ -25,4 +26,31 @@
 * Dreaming of many worlds: Learning contextual world models aids zero-shot generalization [[Paper]](https://arxiv.org/pdf/2403.10967) ![](https://img.shields.io/badge/EWRL-2024-0077c2)
 * Adaptive world models: Learning behaviors by latent imagination under non-stationarity [[Paper]](https://arxiv.org/pdf/2411.01342) ![](https://img.shields.io/badge/EWRL-2024-0077c2)
 * PWM: Policy learning with multi-task world models [[Paper]](https://arxiv.org/pdf/2407.02466) ![](https://img.shields.io/badge/ICLR-2025-0077c2)
-### Observation-Level Generative World Models
+### 2.2 Observation-Level Generative World Models
+* 4d-fy: Text-to-4d generation using hybrid score distillation sampling [[Paper]](https://arxiv.org/pdf/2311.17984) ![](https://img.shields.io/badge/CVPR-2023-0077c2)
+* Video generation models as world simulators [[Paper]](https://openai.com/index/video-generation-models-as-world-simulators/) ![](https://img.shields.io/badge/OpenAI-2024-0077c2)
+* Reasoning with language model is planning with world model [[Paper]](https://arxiv.org/pdf/2305.14992) ![](https://img.shields.io/badge/EMNLP-2023-0077c2)
+* World model on million-length video and language with blockwise ringattention [[Paper]](https://arxiv.org/pdf/2402.08268) ![](https://img.shields.io/badge/ICRL-2025-0077c2)
+* Making large language models into world models with precondition and effect knowledge [[Paper]](https://arxiv.org/pdf/2409.12278) ![](https://img.shields.io/badge/COLING-2025-0077c2)
+* Videocrafter2: Overcoming data limitations for high-quality video diffusion models [[Paper]](https://arxiv.org/pdf/2401.09047) ![](https://img.shields.io/badge/CVPR-2024-0077c2)
+* Wonderjourney: Going from anywhere to everywhere [[Paper]](https://arxiv.org/pdf/2312.03884) ![](https://img.shields.io/badge/CVPR-2023-0077c2)
+#### 2.2.1 Language Observations
+* Can language models serve as text-based world simulators? [[Paper]](https://arxiv.org/pdf/2406.06485) ![](https://img.shields.io/badge/ACL-2024-0077c2)
+* Gpt-4 technical report. [[Paper]](https://arxiv.org/pdf/2303.08774) ![](https://img.shields.io/badge/arXiv-2023.03-B31B1B)
+* The llama 3 herd of models [[Paper]](https://arxiv.org/pdf/2407.21783) ![](https://img.shields.io/badge/arXiv-2024.07-B31B1B)
+* Language agents meet causality – bridging LLMs and causal world models [[Paper]](https://arxiv.org/pdf/2410.19923) ![](https://img.shields.io/badge/ICLR-2025-0077c2)
+* Surge: On the potential of large language mode [[Paper]](https://arxiv.org/pdf/2502.11167)ls as general-purpose surrogate code executors ![](https://img.shields.io/badge/EMNLP-2025-0077c2)
+#### 2.2.2 Visual Observations 
+* Emu3: Next-token prediction is all you need [[Paper]](https://arxiv.org/pdf/2409.18869) ![](https://img.shields.io/badge/arXiv-2024.09-B31B1B)
+* Video world models with long-term spatial memory [[Paper]](https://arxiv.org/pdf/2506.05284) ![](https://img.shields.io/badge/NeurIPS-2025-0077c2)
+* Wan: Open and Advanced Large-Scale Video Generative Models [[Paper]](https://arxiv.org/pdf/2503.20314) ![](https://img.shields.io/badge/arXiv-2025.03-B31B1B)
+* Visual instruction tuning [[Paper]](https://arxiv.org/pdf/2304.08485) ![](https://img.shields.io/badge/NeurIPS-2023-0077c2)
+* Vid2world: Crafting video diffusion models to interactive world models [[Paper]](https://arxiv.org/pdf/2505.14357) ![](https://img.shields.io/badge/arXiv-2025.05-B31B1B)
+* Irasim: Learning interactive real-robot action simulators [[Paper]](https://arxiv.org/html/2406.14540v1) ![](https://img.shields.io/badge/arXiv-2024.06-B31B1B)
+* Co-Evolving Latent Action World Models [[Paper]](https://arxiv.org/pdf/2510.26433) ![](https://img.shields.io/badge/arXiv-2025.10-B31B1B)
+#### 2.2.3 3D and 4D Observations
+* Scenescape: Text-driven consistent scene generation [[Paper]](https://arxiv.org/pdf/2302.01133) ![](https://img.shields.io/badge/NeurIPS-2023-0077c2)
+* Lidarcrafter: Dynamic 4d world modeling from lidar sequences [[Paper]](https://arxiv.org/pdf/2508.03692) ![](https://img.shields.io/badge/AAAI-2025-0077c2)
+* Text2room: Extracting textured 3d meshes from 2d text-to-image models [[Paper]](https://arxiv.org/pdf/2303.11989) ![](https://img.shields.io/badge/ICCV-2023-0077c2)
+* Wonderworld: Interactive 3d scene generation from a single image [[Paper]](https://arxiv.org/pdf/2406.09394) ![](https://img.shields.io/badge/CVPR-2024-0077c2)
+* Invisible stitch: Generating smooth 3d scenes with depth inpainting [[Paper]](https://arxiv.org/pdf/2404.19758) ![](https://img.shields.io/badge/3DV-2024-0077c2)
